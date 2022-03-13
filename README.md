@@ -1,10 +1,10 @@
 # SnA-Taskphase
 
-Automation Task:-
+Automation Task:-  
 
-Tic Tac Toe Game added 
-Download and run the TICTACTOE.exe file to play the game.
-This is a player vs. player tic tac toe game created on c++, each player will input their choices starting from player 1 with X as their symbol
+Tic Tac Toe Game added   
+Download and run the TICTACTOE.exe file to play the game.  
+This is a player vs. player tic tac toe game created on c++, each player will input their choices starting from player 1 with X as their symbol.  
 For detailed documentation with code refer to TICTACTOE.cpp
 
 
